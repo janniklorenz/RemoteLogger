@@ -1,0 +1,17 @@
+{
+  "name": "ios-logging-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "colors": "^1.1.2",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jannik Lorenz <dev@janniklorenz.de> (http://www.janniklorenz.de)",
+  "license": "ISC"
+}
